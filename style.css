@@ -37,7 +37,9 @@ h1, h2, h3, h4, p, ol, ul{margin-bottom: 1rem;}
   background: linear-gradient(to right, red, rgba(255, 0, 0, 0));
 }
 @media (max-width: 768px) {
-  .text-0{font-size: 4rem}
+  .text-0{font-size: 3rem}
+  h1{font-size: 2.2rem;}
+  h2{font-size: 1.4rem;}
 }
 
 
