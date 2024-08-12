@@ -1,0 +1,4 @@
+Questa directory contiene delle elaborazioni grafiche e dati relativi alla composizione delle classi presso la Scuola cantonale di commercio
+- Nome estrazione dati GAGI:  [[https://www.gagi.ti.ch/imoniteur_PROD1/!GEDEXTRACTORS1.XLS?ww_i_lot=7303867787&ww_n_niveau=0&ww_n_niveauselect=0][inizio anno]] (estrazione privata)
+- Link all'html: https://alanleoni.github.io/2024-2025-grafici-creazione-classi/
+- Link al repository: https://github.com/AlanLeoni/2024-2025-grafici-creazione-classi
